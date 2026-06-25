@@ -1,3 +1,3 @@
 # LFSSR_LapDR
 
-This is the PyTorch implementation of “xxx”.
+This is the PyTorch implementation of “Toward High-Fidelity Heterogeneous Light Field Spatial Super-Resolution via Deformable Attention and Information Distillation”.
