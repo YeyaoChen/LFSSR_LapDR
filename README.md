@@ -1,6 +1,6 @@
 # LFSSR_LapDR
 
-This is the PyTorch implementation of “Progressive Heterogeneous Light Field Spatial Super-Resolution with Deformable Attention and Information Distillation”.
+This is the PyTorch implementation of “Progressive Heterogeneous Light Field Spatial Super-Resolution With Deformable Attention and Information Distillation”.
 
 # Usage
 You can use the released code to train or test your own model.
