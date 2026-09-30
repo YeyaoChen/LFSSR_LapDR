@@ -13,4 +13,4 @@ For 4× SR
 1. run './4x/train.py' to train your own model.
 2. run './4x/test.py' to test the pre-trained model.
 
-The pre-trained model (8x and 4x) can be downloaded via Baidu Drive：https://pan.baidu.com/s/1cYrV5BvvjHijtYVr6CWNhQ (key: SAPE)
+The pre-trained model (8x and 4x) can be downloaded via Baidu Drive：[https://pan.baidu.com/s/1cYrV5BvvjHijtYVr6CWNhQ](https://pan.baidu.com/s/1iOxSzh4wqaF3yY_6aHnjtw?pwd=vcnn) (key: vcnn)
